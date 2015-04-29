@@ -1,0 +1,8 @@
+1.hello
+2.hello hello
+
+4.hello how are you
+5.hello you
+6.hello
+7.wo
+8./usr/local
